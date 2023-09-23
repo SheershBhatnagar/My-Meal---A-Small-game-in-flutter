@@ -25,7 +25,7 @@ A simple mobile game where the objective is to help the animal by feeding it by 
 
 ![Capture Page while Uploading](https://github.com/SheershBhatnagar/My-Meal---A-Small-game-in-flutter/blob/master/screenshots/capture_page_uploading.png)
 
-![Message Page](https://github.com/SheershBhatnagar/My-Meal---A-Small-game-in-flutter/blob/master/screenshots/home_page.png)
+![Message Page](https://github.com/SheershBhatnagar/My-Meal---A-Small-game-in-flutter/blob/master/screenshots/message_page.png)
 
 ## Color Reference
 
